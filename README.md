@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jyotirai-projects-blurry-loading.netlify.app/)
 
 
 ![screenshot](./screenshot.png)
